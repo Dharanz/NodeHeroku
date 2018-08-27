@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/Dharanz/NodeHeroku#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "mongojs": "^2.6.0"
   }
 }
